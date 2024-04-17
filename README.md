@@ -1,4 +1,4 @@
-### Hullo 👋
+ ### Hullo 👋
 
 
 
@@ -12,8 +12,11 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fvt18onnqmy27ad60ha4ueov4&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=fvt18onnqmy27ad60ha4ueov4&redirect=true)
 </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on medium-sized TTRPG character-maker; and avoiding it when necessary
+- <p align="right">
+- 🌱 I’m currently learning TerraForm, Angular, whatever catches my fancy
+ 
+</p>
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

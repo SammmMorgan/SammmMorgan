@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
- <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="center" width=396 src="https://github-readme-stats.vercel.app/api?username=sudip-mondal-2002&show_icons=true&theme=react&border_color=61dafb"/>
+ <a href="https://github.com/sammmmorgan/github-readme-stats" title="Go to Source">
+      <img align="center" width=396 src="https://github-readme-stats.vercel.app/api?username=sammmmorgan&show_icons=true&theme=react&border_color=61dafb"/>
     </a>
 
 <h3 align="left">Languages and Tools:</h3>

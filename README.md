@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hullo 👋
 
 
-**SammmMorgan/SammmMorgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
  <a href="https://github.com/sammmmorgan/github-readme-stats" title="Go to Source">
       <img align="center" width=396 src="https://github-readme-stats.vercel.app/api?username=sammmmorgan&show_icons=true&theme=react&border_color=61dafb"/>
